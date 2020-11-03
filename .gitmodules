@@ -1,0 +1,3 @@
+[submodule "transformers/pytorch-transformers-classification"]
+	path = transformers/pytorch-transformers-classification
+	url = https://github.com/ThilinaRajapakse/pytorch-transformers-classification
