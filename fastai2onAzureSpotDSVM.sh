@@ -12,7 +12,7 @@ read -s -p "Re-enter Password: " password2
 echo
 done
 
-az group create --name $vmname -l westus2
+az group create --name $vmname -l eastus
 
 echo "Creating Azure Data Science VM $vmname..."
 # You can change the size parameter if you want something other than NVidia K80 GPU instance. 
