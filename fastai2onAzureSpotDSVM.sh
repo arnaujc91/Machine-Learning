@@ -2,6 +2,7 @@
 #!/bin/bash
 # Script to create Azure DSVM Spot instance with NVIDIA Tesla V100 and install fast.ai library
 # link -> https://docs.microsoft.com/en-us/azure/virtual-machines/ncv3-series
+echo 'This is Arnau script'
 read -p "Azure VM Name (default: arnauvm): " vminput
 vmname=${vminput:=arnauvm}
 while [ $password != $password2 ] ; do 
