@@ -14,16 +14,16 @@ Most used ML algorithms:
 
 Top 10 Must-Know Machine Learning Algorithms in 2020
 
-Naive Bayes Classifier 
-Linear Regression 
-Decision Tree 
-Gradient Boosting & AdaBoosting
-Random forest
-Support Vector Machine 
-Logistic Regression 
-K-Means 
-K-Nearest Neighbors
-Dimensionality Reduction
+- Naive Bayes Classifier 
+- Linear Regression 
+- Decision Tree 
+- Gradient Boosting & AdaBoosting
+- Random forest
+- Support Vector Machine 
+- Logistic Regression 
+- K-Means 
+- K-Nearest Neighbors
+- Dimensionality Reduction
 
 
 
