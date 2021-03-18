@@ -1,6 +1,32 @@
 # Machine-Learning
 
 
+## Taxonomy:
+
+There are four big categories:
+
+- Supervised 
+- Semi supervised
+- Unsupervised
+- Reinforcement Learning
+
+Most used ML algorithms:
+
+Top 10 Must-Know Machine Learning Algorithms in 2020
+
+- Naive Bayes Classifier 
+- Linear Regression 
+- Decision Tree 
+- Gradient Boosting & AdaBoosting
+- Random forest
+- Support Vector Machine 
+- Logistic Regression 
+- K-Means 
+- K-Nearest Neighbors
+- Dimensionality Reduction
+
+
+
 ![Cheat Sheet](https://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet-2.png)
 
 
